@@ -14,17 +14,6 @@ body {
     margin-right: auto;
 }
 
-.filters {
-    background-color: white;
-    height: 70px;
-    width: 100%;
-    border: 1px #DDDDDD solid;
-    border-radius: 4px;
-    display: flex;
-    align-items: center;
-    justify-content: right;
-}
-
 button {
     font-size: 18px;
     background-color: #ff5a5f;
