@@ -1,4 +1,4 @@
-.places ul{
+.places {
     display: flex;
     flex-flow: wrap;
     justify-content: center;
@@ -10,6 +10,7 @@
 .places h1 {
     text-align: left;
     font-size: 30px;
+    flex-basis: 100%;
 }
 
 .places article {
